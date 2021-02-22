@@ -1,0 +1,351 @@
+{
+    "data1": {
+        "Week": "月",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "長谷部 直幸"
+        ],
+        "Specialty": [
+            "高血圧・心不全"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data2": {
+        "Week": "月",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "木谷 祐也"
+        ],
+        "Specialty": [
+            "循環器一般"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data3": {
+        "Week": "月",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "竹内 利治"
+        ],
+        "Specialty": [
+            "狭心症・心不全"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data4": {
+        "Week": "月",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "伊達 歩"
+        ],
+        "Specialty": [
+            "循環器一般：新患担当"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data5": {
+        "Week": "月",
+        "Medical": "循環器内科",
+        "Attribute": "専門外来",
+        "Apm": "午前",
+        "Docter": [
+            "竹内利治"
+        ],
+        "Specialty": [],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data6": {
+        "Week": "火",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "川村 祐一郎"
+        ],
+        "Specialty": [
+            "不整脈"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data7": {
+        "Week": "火",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "赤坂 和美"
+        ],
+        "Specialty": [
+            "循環器一般"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data8": {
+        "Week": "火",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "山内 敦司"
+        ],
+        "Specialty": [
+            "狭心症・心不全"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data9": {
+        "Week": "火",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "齊藤 江里香"
+        ],
+        "Specialty": [
+            "循環器一般：新患担当"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data10": {
+        "Week": "火",
+        "Medical": "循環器内科",
+        "Attribute": "専門外来",
+        "Apm": "午前",
+        "Docter": [
+            "木谷祐也"
+        ],
+        "Specialty": [
+            "腫瘍循環器 ",
+            "ﾍﾟｰｽﾒｰｶｰ外来"
+        ],
+        "Reservation": [],
+        "Irregular": [
+            "＊第1・2週目"
+        ]
+    },
+    "data11": {
+        "Week": "水",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "川村 祐一郎"
+        ],
+        "Specialty": [
+            "循環器一般：新患担当"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data12": {
+        "Week": "水",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "田邊 康子"
+        ],
+        "Specialty": [
+            "不整脈・心不全"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data13": {
+        "Week": "水",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "坂本 央"
+        ],
+        "Specialty": [
+            "不整脈・心筋症"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data14": {
+        "Week": "水",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "本谷 光咲子"
+        ],
+        "Specialty": [
+            "循環器一般：新患担当"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data15": {
+        "Week": "水",
+        "Medical": "循環器内科",
+        "Attribute": "専門外来",
+        "Apm": "午前",
+        "Docter": [],
+        "Specialty": [
+            "ICD外来"
+        ],
+        "Reservation": [],
+        "Irregular": [
+            "＊第1・2週目"
+        ]
+    },
+    "data16": {
+        "Week": "木",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "長谷部 直幸"
+        ],
+        "Specialty": [
+            "循環器一般：新患担当"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data17": {
+        "Week": "木",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "佐藤 伸之"
+        ],
+        "Specialty": [
+            "循環器一般"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data18": {
+        "Week": "木",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "岡田 基"
+        ],
+        "Specialty": [
+            "高血圧・狭心症"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data19": {
+        "Week": "木",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "竹原 有史"
+        ],
+        "Specialty": [
+            "循環器一般：新患担当"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data20": {
+        "Week": "木",
+        "Medical": "循環器内科",
+        "Attribute": "専門外来",
+        "Apm": "午前",
+        "Docter": [
+            "木谷祐也"
+        ],
+        "Specialty": [
+            "腫瘍循環器 "
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data21": {
+        "Week": "金",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "藤野 貴行"
+        ],
+        "Specialty": [
+            "高血圧・心筋症：新患担当"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data22": {
+        "Week": "金",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "蓑島 暁帆"
+        ],
+        "Specialty": [
+            "狭心症・心不全・肺高血圧症"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data23": {
+        "Week": "金",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "尾野 稔侑"
+        ],
+        "Specialty": [
+            "循環器一般：新患担当"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data24": {
+        "Week": "金",
+        "Medical": "循環器内科",
+        "Attribute": "新・再来",
+        "Apm": "午前午後",
+        "Docter": [
+            "北川 拓"
+        ],
+        "Specialty": [
+            "循環器一般：新患担当"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    },
+    "data25": {
+        "Week": "金",
+        "Medical": "循環器内科",
+        "Attribute": "専門外来",
+        "Apm": "午前",
+        "Docter": [],
+        "Specialty": [
+            "冠動脈スクリーニング外来"
+        ],
+        "Reservation": [],
+        "Irregular": []
+    }
+}
