@@ -4,7 +4,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "長谷部 直幸"
         ],
         "Specialty": [
@@ -18,7 +18,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "木谷 祐也"
         ],
         "Specialty": [
@@ -32,7 +32,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "竹内 利治"
         ],
         "Specialty": [
@@ -46,7 +46,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "伊達 歩"
         ],
         "Specialty": [
@@ -60,7 +60,7 @@
         "Medical": "循環器内科",
         "Attribute": "専門外来",
         "Apm": "午前",
-        "Docter": [
+        "Doctor": [
             "竹内利治"
         ],
         "Specialty": [],
@@ -72,7 +72,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "川村 祐一郎"
         ],
         "Specialty": [
@@ -86,7 +86,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "赤坂 和美"
         ],
         "Specialty": [
@@ -100,7 +100,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "山内 敦司"
         ],
         "Specialty": [
@@ -114,7 +114,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "齊藤 江里香"
         ],
         "Specialty": [
@@ -128,7 +128,7 @@
         "Medical": "循環器内科",
         "Attribute": "専門外来",
         "Apm": "午前",
-        "Docter": [
+        "Doctor": [
             "木谷祐也"
         ],
         "Specialty": [
@@ -145,7 +145,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "川村 祐一郎"
         ],
         "Specialty": [
@@ -159,7 +159,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "田邊 康子"
         ],
         "Specialty": [
@@ -173,7 +173,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "坂本 央"
         ],
         "Specialty": [
@@ -187,7 +187,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "本谷 光咲子"
         ],
         "Specialty": [
@@ -201,7 +201,7 @@
         "Medical": "循環器内科",
         "Attribute": "専門外来",
         "Apm": "午前",
-        "Docter": [],
+        "Doctor": [],
         "Specialty": [
             "ICD外来"
         ],
@@ -215,7 +215,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "長谷部 直幸"
         ],
         "Specialty": [
@@ -229,7 +229,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "佐藤 伸之"
         ],
         "Specialty": [
@@ -243,7 +243,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "岡田 基"
         ],
         "Specialty": [
@@ -257,7 +257,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "竹原 有史"
         ],
         "Specialty": [
@@ -271,7 +271,7 @@
         "Medical": "循環器内科",
         "Attribute": "専門外来",
         "Apm": "午前",
-        "Docter": [
+        "Doctor": [
             "木谷祐也"
         ],
         "Specialty": [
@@ -285,7 +285,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "藤野 貴行"
         ],
         "Specialty": [
@@ -299,7 +299,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "蓑島 暁帆"
         ],
         "Specialty": [
@@ -313,7 +313,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "尾野 稔侑"
         ],
         "Specialty": [
@@ -327,7 +327,7 @@
         "Medical": "循環器内科",
         "Attribute": "新・再来",
         "Apm": "午前午後",
-        "Docter": [
+        "Doctor": [
             "北川 拓"
         ],
         "Specialty": [
@@ -341,7 +341,7 @@
         "Medical": "循環器内科",
         "Attribute": "専門外来",
         "Apm": "午前",
-        "Docter": [],
+        "Doctor": [],
         "Specialty": [
             "冠動脈スクリーニング外来"
         ],
